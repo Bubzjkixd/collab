@@ -1,17 +1,13 @@
-/* Pour centrer la page */
-body {  
+body { color:blueviolet;
 }
 
-.aliastbd {color:;}
-
-ul {
+ul { color:greenyellow;
 }
 
-li {
+li { color:coral;
 }
 
 #image-center {text-align: center;}
 
-
-header {
+header { color:yellow;
 }
